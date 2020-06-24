@@ -4,10 +4,11 @@ Un blog increible para el curso
 > El curso de git y github es lo que me hacia falta
 > niñita
 
-En este curso veremos de todo
+## En este curso veremos de todo
 * Todos los comandos de git
 * El flujo de trabajo
 * El verdadero amor por las buenas practicas.
+* Creado por el increible Platzi team
 
 Y como un amable recordatorio: ** Este readme.md es un chiste** Diseñado para el ejemplo. Mejor ve al curso
 
