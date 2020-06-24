@@ -9,6 +9,7 @@ Un blog increible para el curso
 * El flujo de trabajo
 * El verdadero amor por las buenas practicas.
 * Creado por el increible Platzi team
+* Incluye ejemplo en linux y mac
 
 Y como un amable recordatorio: ** Este readme.md es un chiste** Diseñado para el ejemplo. Mejor ve al curso
 
